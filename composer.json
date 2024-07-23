@@ -1,0 +1,19 @@
+{
+    "name": "thiagow327/conversao-temperatura",
+    "description": "Converte a temperatura de Celsius para Fahrenheit e vice-versa.",
+    "type": "library",
+    "license": "None",
+    "autoload": {
+        "psr-4": {
+            "Thiagow327\\ConversaoTemperatura\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "thiago.silva",
+            "email": "thiagosilva327@live.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
