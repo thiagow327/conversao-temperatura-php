@@ -1,6 +1,6 @@
 <?php
 
-namespace Thiagow327\ConverteTemperatura;
+namespace Thiagow327\Conversao;
 
 class ConverteTemperatura
 {
